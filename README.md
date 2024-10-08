@@ -33,8 +33,6 @@
         ⭐⭐⭐⭐⭐
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/>
@@ -79,8 +77,6 @@
         ⭐⭐⭐⭐⭐
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/>
